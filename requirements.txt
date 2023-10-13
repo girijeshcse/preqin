@@ -1,0 +1,8 @@
+FastAPI
+Pydantic
+passlib
+starlette
+uvicorn
+pytest
+fastapi-testclient
+
